@@ -7,6 +7,9 @@
   "author": "terwer",
   "license": "MIT",
   "scripts": {
+    "dev": "yarn docs:dev",
+    "build": "yarn docs:build",
+    "preview": "yarn docs:preview",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
