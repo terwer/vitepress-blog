@@ -43,7 +43,7 @@ $E=mc^2$
 
 类图
 
-```plantuml
+```plaintext
 @startuml
 
 skinparam backgroundcolor transparent
@@ -71,7 +71,7 @@ orders  -[#595959,plain]-^  user   : "uid:id"
 
 脑图
 
-```plantuml
+```plaintext
 @startmindmap
 
 skinparam backgroundcolor transparent
@@ -87,7 +87,7 @@ skinparam backgroundcolor transparent
 
 时序图
 
-```plantuml
+```plaintext
 @startuml
 
 !include https://unpkg.com/plantuml-style-c4@latest/core.puml
@@ -109,7 +109,7 @@ Bob <->o Alice
 
 流程图
 
-```plantuml
+```plaintext
 @startuml
 !pragma useVerticalIf on
 
