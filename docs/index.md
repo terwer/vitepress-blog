@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Vuepress blog"
+  name: "Vitepress blog"
   text: "Share my posts"
   tagline: My great project tagline
   actions:
