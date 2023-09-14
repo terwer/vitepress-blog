@@ -1,21 +1,18 @@
 {
-  "name": "vitepress-blog",
+  "name": "test",
   "version": "1.0.0",
-  "description": "a blog via vitepress",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/terwer/vitepress-blog",
-  "author": "terwer",
-  "license": "MIT",
   "scripts": {
-    "dev": "yarn docs:dev",
-    "build": "yarn docs:build",
-    "preview": "yarn docs:preview",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
   },
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.29",
-    "vue": "^3.2.45"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.27",
+    "vue": "^3.2.41"
   }
 }
