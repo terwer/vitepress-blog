@@ -1,14 +1,20 @@
 {
-  "name": "vuepress-blog",
-  "private": true,
-  "type": "module",
+  "name": "vitepress-blog",
+  "version": "1.0.0",
+  "description": "my blog based on vitepress",
+  "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
+  "keywords": [
+    "vitepress",
+    "blog"
+  ],
+  "author": "terwer",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "18.15.3",
     "vitepress": "1.0.0-rc.13"
   }
 }

@@ -1,4 +1,2 @@
-.idea
-.vitepress/cache
-node_modules
-.DS_Store
+docs/.vitepress/dist
+docs/.vitepress/cache
