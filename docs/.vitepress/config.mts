@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import './custom.css'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
