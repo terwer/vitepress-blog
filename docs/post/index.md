@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: false
+next: false
+---
+
 # 文章索引
 
 这里是文章索引。

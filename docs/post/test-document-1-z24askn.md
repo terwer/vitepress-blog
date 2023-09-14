@@ -9,8 +9,9 @@ head:
     - name: keywords
       content: 测试 标签1 标签3 hexo 新的
 outline: deep
-sidebar: true
-nav: false
+sidebar: false
+prev: false
+next: false
 ---
 
 成功提示12345678
